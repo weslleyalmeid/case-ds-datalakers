@@ -34,12 +34,12 @@ ITENS-_3_.xlsx
 - Em 3 meses saímos de 74 reais para 94 reais, representando um aumento de 27%
 - O item D é responsável por aproximadamente 40% das vendas da empresa seguindo do item C com 26%
 - O item D é o mais vendido, seguido do item B
-- O ciclo médio de compra é de aproximadamente 1.26 dias 
+- O ciclo médio de compra é de aproximadamente 1.26 dias
 - Foi possível desenvolver um modelo com erro em média de 2 items
 
 
 
 **Próximos passos**
-- Scripts mais robustos
+- Modelos mais robustos
 - Apresentação do resultado em comparação do dia anterior
-- Aprensentar o resultado em termos financeiro
+- Apresentar o resultado em termos financeiro
